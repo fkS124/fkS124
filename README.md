@@ -9,6 +9,7 @@ I also love algorithmic and math.
 #### Developing languages
 - Python : 2.5 years
 - C# : 3 months
+- C : 2 months
 
 #### Game dev engines/frameworks
 - Pygame : 2 years
@@ -20,4 +21,4 @@ I also love algorithmic and math.
 
 # More
 - Coding game profile : https://www.codingame.com/profile/e3c38c12eaa94409a81c4a8271b3c5405404714
-- Current game dev project : https://github.com/fkS124/Mars-Survivor
+- Latest project : https://github.com/fkS124/Pygame-Light
