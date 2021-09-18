@@ -7,12 +7,12 @@ I also love algorithmic and math.
 # Experience
 
 #### Developing languages
-- Python : 2.5 years
+- Python : 3 years
 - C# : 3 months
 - C : 2 months
 
 #### Game dev engines/frameworks
-- Pygame : 2 years
+- Pygame : 2.5 years
 - Unity : 3 months
 
 # Contact
