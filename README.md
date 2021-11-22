@@ -21,4 +21,4 @@ I also love algorithmic and math.
 
 # More
 - Coding game profile : https://www.codingame.com/profile/e3c38c12eaa94409a81c4a8271b3c5405404714
-- Latest project : https://github.com/fkS124/Pygame-Light
+- Latest project : https://github.com/mariospapaz/JohnsAdventure
