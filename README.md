@@ -1,5 +1,7 @@
 # Me
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fkS124)](https://github.com/anuraghazra/github-readme-stats)
+
 Hi ! I'm Théophile "fkS124" Aumont. I'm a french student.
 I'm currently in game dev with Unity and Pygame.
 I also love algorithmic and math.
