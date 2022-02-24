@@ -1,6 +1,7 @@
 # Me
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fkS124)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fkS124&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fkS124&show_icons=true&hide=css&theme=merko)
 
 Hi ! I'm Théophile "fkS124" Aumont. I'm a french student.
 I'm currently in game dev with Unity and Pygame.
