@@ -14,8 +14,8 @@ I also love algorithmic and math.
 - Pygame : 2.5 years
 
 #### Remarkable projects
-- John's Adventure : I am the main contributor to this project (the owner and leader of the project is [mariospapaz](https://github.com/mariospapaz)) -> https://github.com/mariospapaz/JohnsAdventure
-- Bad Burger : Game made for a the PyGameCommunity Summer Team Jam 2021 (with @mariospapaz and @Emc2356) -> https://github.com/fkS124/Bad-Burger
+- [John's Adventure](https://github.com/mariospapaz/JohnsAdventure) : I am the main contributor to this project (the owner and leader of the project is [mariospapaz](https://github.com/mariospapaz))
+- [Bad Burger](https://github.com/fkS124/Bad-Burger) : Game made for a the PyGameCommunity Summer Team Jam 2021 (with [mariospapaz](https://github.com/mariospapaz) and [Emc235](https://github.com/Emc2356))
 - Pygame Framework : WIP (repo will soon be public)
 
 # Contact
