@@ -20,6 +20,7 @@ I also love algorithmic and math.
 - [John's Adventure](https://github.com/mariospapaz/JohnsAdventure) : I am the main contributor to this project (the owner and leader of the project is [mariospapaz](https://github.com/mariospapaz))
 - [Bad Burger](https://github.com/fkS124/Bad-Burger) : Game made for a the PyGameCommunity Summer Team Jam 2021 (with [mariospapaz](https://github.com/mariospapaz) and [Emc235](https://github.com/Emc2356))
 - Pygame Framework : WIP (repo will soon be public)
+- Chess game (with AI) : WIP (repo will soon be public)
 
 # Contact
 - Discord: fkS#2984
