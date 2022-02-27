@@ -19,8 +19,8 @@ I also love algorithmic and math.
 #### Remarkable projects
 - [John's Adventure](https://github.com/mariospapaz/JohnsAdventure) : I am the main contributor to this project (the owner and leader of the project is [mariospapaz](https://github.com/mariospapaz))
 - [Bad Burger](https://github.com/fkS124/Bad-Burger) : Game made for a the PyGameCommunity Summer Team Jam 2021 (with [mariospapaz](https://github.com/mariospapaz) and [Emc235](https://github.com/Emc2356))
+- [Chess game](https://github.com/thegordonbeeman/py-chess) : A simple chess game, made with PyGame in collaboaration with [thegordonbeeman](https://github.com/thegordonbeeman) and [ozher](https://github.com/OZHER). We will release later this month (year ?) an AI to play against the computer.
 - Pygame Framework : WIP (repo will soon be public)
-- Chess game (with AI) : WIP (repo will soon be public)
 
 # Contact
 - Discord: fkS#2984
