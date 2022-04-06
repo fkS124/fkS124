@@ -10,11 +10,11 @@ I also love algorithmic and math.
 # Experience
 
 #### Programming languages
-- Python : 3 years
-- C : 2 months 
+- Python : since 2019
+- C : since 2022
 
 #### Game dev engines/frameworks
-- Pygame : 2.5 years
+- Pygame : since 2019
 
 #### Remarkable projects
 - [John's Adventure](https://github.com/mariospapaz/JohnsAdventure) : I am the main contributor to this project (the owner and leader of the project is [mariospapaz](https://github.com/mariospapaz))
