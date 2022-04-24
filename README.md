@@ -21,8 +21,8 @@ I also love algorithmic and math.
 - [Bad Burger](https://github.com/fkS124/Bad-Burger) : Game made for a the PyGameCommunity Summer Team Jam 2021 (with [mariospapaz](https://github.com/mariospapaz) and [Emc235](https://github.com/Emc2356))
 - [Chess game](https://github.com/thegordonbeeman/py-chess) : A simple chess game, made with PyGame in collaboaration with [thegordonbeeman](https://github.com/thegordonbeeman) and [ozher](https://github.com/OZHER). We will release later this month (year ?) an AI to play against the computer.
 - [Pygame Framework](https://github.com/fkS124/Pygame-Engine) : WIP 
-- [Arduino Projects](https://github.com/fkS124/Arduino-Projects) : Just a repo to store my programs using Arduino
-- [Hexagonal game of life](https://github.com/fkS124/game-of-life-remastered) : the Conway's game of life, but with hexagons instead of squares. Made with [ozher](https://github.com/OZHER))
+- [Arduino Projects](https://github.com/fkS124/Arduino-Projects) : Just a repo to store my programs using Arduino.
+- [Hexagonal game of life](https://github.com/fkS124/game-of-life-remastered) : the Conway's game of life, but with hexagons instead of squares (made with [ozher](https://github.com/OZHER))
 
 # Contact
 - Discord: fkS#2984
