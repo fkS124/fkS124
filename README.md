@@ -22,7 +22,7 @@ I also love algorithmic and math.
 - [Chess game](https://github.com/thegordonbeeman/py-chess) : A simple chess game, made with PyGame in collaboaration with [thegordonbeeman](https://github.com/thegordonbeeman) and [ozher](https://github.com/OZHER). We will release later this month (year ?) an AI to play against the computer.
 - [Pygame Framework](https://github.com/fkS124/Pygame-Engine) : WIP 
 - [Arduino Projects](https://github.com/fkS124/Arduino-Projects) : Just a repo to store my programs using Arduino
-- [Hexagonal game of life](https://github.com/fkS124/game-of-life-remastered): the Conway's game of life, but with hexagons instead of square. Made with [ozher](https://github.com/OZHER))
+- [Hexagonal game of life](https://github.com/fkS124/game-of-life-remastered) : the Conway's game of life, but with hexagons instead of square. Made with [ozher](https://github.com/OZHER))
 
 # Contact
 - Discord: fkS#2984
