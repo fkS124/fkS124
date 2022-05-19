@@ -24,6 +24,7 @@ I also love algorithmic and math.
 - [Pygame Framework](https://github.com/fkS124/Pygame-Engine) : A framework I'm currently making, to create game with pygame, faster. It includes several GUI tools such as a map editor, or a tile set editor. For now, it supports only 2D games, but it seems expandable to top-down game in the future. I'm still working on it, and the goal is then to create a full 2D-rpg game using this engine when it'll be in a quite advanced state.
 - [Arduino Projects](https://github.com/fkS124/Arduino-Projects) : Just a repo to store my programs using Arduino.
 - [Hexagonal game of life](https://github.com/fkS124/game-of-life-remastered) : the Conway's game of life, but with hexagons instead of squares (made with [ozher](https://github.com/OZHER))
+- [Matrix computation](https://github.com/fkS124/matrices) : matrices computation using C++. (still WIP)
 
 # Contact
 - Discord: fkS#2984
