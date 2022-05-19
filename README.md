@@ -12,6 +12,7 @@ I also love algorithmic and math.
 #### Programming languages
 - Python : since 2019
 - C : since 2022
+- C++ : since 2022
 
 #### Game dev engines/frameworks
 - Pygame : since 2019
