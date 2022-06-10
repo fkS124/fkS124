@@ -22,7 +22,6 @@ I'm into gamedev using python, and math using c++ (matrices and graphs especiall
 * Maths
   - [Hexagonal game of life](https://github.com/fkS124/game-of-life-remastered) : the Conway's game of life, but with hexagons instead of squares (made with [ozher](https://github.com/OZHER))
   - [Matrix computation](https://github.com/fkS124/matrices) : matrices computation using C++.
-  - [Graph editing tool](https://github.com/fkS124/graphs) : a tool to play with graphs (discrete mathematics), generate adjacency matrices, calculate shortest path, etc... (still wip)
 
 * Game dev
   - [John's Adventure](https://github.com/mariospapaz/JohnsAdventure) : I am the main contributor to this project (the owner and leader of the project is [mariospapaz](https://github.com/mariospapaz))
