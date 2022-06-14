@@ -19,6 +19,9 @@ I'm into gamedev using python, and math using c++ (matrices and graphs especiall
 
 #### Remarkable projects
 
+* Physics
+  - [2D Fluid Simulation](https://github.com/fkS124/2D-fluid-simulation) : simulated an incompressible fluid, using C and SDL2.
+
 * Maths
   - [Hexagonal game of life](https://github.com/fkS124/game-of-life-remastered) : the Conway's game of life, but with hexagons instead of squares (made with [ozher](https://github.com/OZHER))
   - [Matrix computation](https://github.com/fkS124/matrices) : matrices computation using C++.
