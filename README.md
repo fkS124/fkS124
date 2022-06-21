@@ -5,14 +5,14 @@
 
 Hi ! I'm Théophile "fkS124" Aumont. I'm a french student.
 
-I'm into gamedev using python, and math using c++ (matrices and graphs especially). 
+I'm into gamedev using python, and science in general, especially Physics and Maths (see my simulations made in C and C++)
 
 # Experience
 
 #### Programming languages
 - Python : since 2019
-- C : since 2022
-- C++ : since 2022
+- C : since early 2022
+- C++ : since early 2022
 
 #### Game dev engines/frameworks
 - Pygame : since 2019
