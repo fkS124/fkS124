@@ -41,4 +41,4 @@ I'm into gamedev using python, and science in general, especially Physics and Ma
 
 # More
 - Coding game profile : https://www.codingame.com/profile/e3c38c12eaa94409a81c4a8271b3c5405404714
-- Latest project : https://github.com/fkS124/matrices
+- Latest project : https://fks124.itch.io/cubes-hidden-dimensions
