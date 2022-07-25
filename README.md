@@ -30,7 +30,7 @@ I'm into gamedev using python, and science in general, especially Physics and Ma
   - [John's Adventure](https://github.com/mariospapaz/JohnsAdventure) : I am the main contributor to this project (the owner and leader of the project is [mariospapaz](https://github.com/mariospapaz))
   - [Bad Burger](https://github.com/fkS124/Bad-Burger) : Game made for a the PyGameCommunity Summer Team Jam 2021 (with [mariospapaz](https://github.com/mariospapaz) and [Emc235](https://github.com/Emc2356))
   - [Chess game](https://github.com/thegordonbeeman/py-chess) : A simple chess game, made with PyGame in collaboaration with [thegordonbeeman](https://github.com/thegordonbeeman) and [ozher](https://github.com/OZHER). We will release later this month (year ?) an AI to play against the computer.
-  - [Pygame Framework](https://github.com/fkS124/Pygame-Engine) : A framework I'm currently making, to create game with pygame, faster. It includes several GUI tools such as a map editor, or a tile set editor. For now, it supports only 2D games, but it seems expandable to top-down game in the future. I'm still working on it, and the goal is then to create a full 2D-rpg game using this engine when it'll be in a quite advanced state.
+  - [Cube's hidden dimensions](https://fks124.itch.io/cubes-hidden-dimensions) : A 2.5D platformer, where you control a cube travelling through plenty of dimensions, each of them hiding a secret... Made with [ozher](https://github.com/OZHER). In a nutshell, we built a perspective-based 3d engine, which transform a 2d scene into a 2.5d scene, showing perspectives.
 
 * Others
   - [Arduino Projects](https://github.com/fkS124/Arduino-Projects) : Just a repo to store my programs using Arduino.
