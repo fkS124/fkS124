@@ -3,7 +3,7 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fkS124&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fkS124&show_icons=true&hide=css&theme=tokyonight)
 
-Hi ! I'm Théophile "fkS124" Aumont. I'm a french student.
+Hi ! I'm Théophile "fkS124" A. I'm a french student.
 
 I'm into gamedev using python, and science in general, especially Physics and Maths (see my simulations made in C and C++)
 
