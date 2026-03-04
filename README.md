@@ -35,10 +35,6 @@ I'm into gamedev using python, and science in general, especially Physics and Ma
 * Others
   - [Arduino Projects](https://github.com/fkS124/Arduino-Projects) : Just a repo to store my programs using Arduino.
 
-# Contact
-- Discord: fkS#2984
-- E-mail: theophile.aumont@gmail.com
-
 # More
 - Coding game profile : https://www.codingame.com/profile/e3c38c12eaa94409a81c4a8271b3c5405404714
 - Latest project : https://fks124.itch.io/cubes-hidden-dimensions
